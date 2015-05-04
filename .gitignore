@@ -1,4 +1,7 @@
-*.class
+*.iml
+nodejs
+npm-debug.log
+.idea
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
